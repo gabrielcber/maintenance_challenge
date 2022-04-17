@@ -1,0 +1,7 @@
+# This is a boilerplate parameters config generated for pipeline 'data_transforming'
+# using Kedro 0.18.0.
+#
+# Documentation for this file format can be found in "Parameters"
+# Link: https://kedro.readthedocs.io/en/0.18.0/kedro_project_setup/configuration.html#parameters
+
+list_of_columns: ['cd_000', 'as_000', 'au_000', 'ch_000']
