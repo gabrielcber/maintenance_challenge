@@ -58,3 +58,11 @@ y_test:
 model:
   type: pickle.PickleDataSet
   filepath: data/06_models/model.pickle
+
+randomforestclassifier:
+  type: pickle.PickleDataSet
+  filepath: data/06_models/rfc.pickle
+
+lineardiscriminantanalysis:
+  type: pickle.PickleDataSet
+  filepath: data/06_models/lda.pickle
