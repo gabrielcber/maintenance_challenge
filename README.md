@@ -1,4 +1,10 @@
-# defy
+# Maintenance Prediction applied to Identify Failure in Trucks Air System
+
+## Folder structure
+
+You can find the presentation at docs/ folder.
+
+The raw data is inside data/ folder.
 
 ## Overview
 
