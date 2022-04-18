@@ -8,19 +8,11 @@ The raw data is inside data/ folder.
 
 ## Overview
 
-This is your new Kedro project, which was generated using `Kedro 0.18.0`.
+This is a challenge for Refera's job interview in which we want to reduce maintenance's cost of trucks air system using a Machine Learning approach. This project structure was generated using `Kedro 0.18.0`.
 
-Take a look at the [Kedro documentation](https://kedro.readthedocs.io) to get started.
+Take a look at the [Kedro documentation](https://kedro.readthedocs.io) if you want detailed information on this structure.
 
-## Rules and guidelines
-
-In order to get the best out of the template:
-
-* Don't remove any lines from the `.gitignore` file we provide
-* Make sure your results can be reproduced by following a [data engineering convention](https://kedro.readthedocs.io/en/stable/faq/faq.html#what-is-data-engineering-convention)
-* Don't commit data to your repository
-* Don't commit any credentials or your local configuration to your repository. Keep all your credentials and local configuration in `conf/local/`
-
+# How to run kedro
 ## How to install dependencies
 
 Declare any dependencies in `src/requirements.txt` for `pip` installation and `src/environment.yml` for `conda` installation.
