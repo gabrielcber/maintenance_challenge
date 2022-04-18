@@ -1,5 +1,5 @@
 """
-This is a boilerplate pipeline 'training'
+This is a boilerplate pipeline 'fitting_model'
 generated using Kedro 0.18.0
 """
 

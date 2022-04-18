@@ -1,4 +1,4 @@
-# Pipeline training
+# Pipeline fitting_model
 
 > *Note:* This is a `README.md` boilerplate generated using `Kedro 0.18.0`.
 
